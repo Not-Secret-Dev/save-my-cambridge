@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1749542583751,
+    "originalName": "Test",
+    "storedName": "1749542583463-Business-Communication.pdf",
+    "path": "uploads/1749542583463-Business-Communication.pdf",
+    "category": "ebooks",
+    "subject": "Islamiat",
+    "uploadedAt": "2025-06-10T08:03:03.751Z"
+  },
+  {
+    "id": 1749542674897,
+    "originalName": "Test2",
+    "storedName": "1749542674751-Computer-Networks.pdf",
+    "path": "uploads/1749542674751-Computer-Networks.pdf",
+    "category": "notes",
+    "subject": "Islamiat",
+    "uploadedAt": "2025-06-10T08:04:34.897Z"
+  },
+  {
+    "id": 1749542700842,
+    "originalName": "Test3",
+    "storedName": "1749542700558-Electronics-II.pdf",
+    "path": "uploads/1749542700558-Electronics-II.pdf",
+    "year": 2016,
+    "category": "pastpapers",
+    "subject": "Islamiat",
+    "uploadedAt": "2025-06-10T08:05:00.842Z"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1749444183752,
+    "name": "Admin",
+    "email": "myAdmin@outloook.com",
+    "password": "$2b$10$lqgZtjv9kJBthYu8lw6fD.BsWdiZECBU/dZDuojZfZFL1hjFL44/q",
+    "role": "admin"
+  },
+  {
+    "id": 1749444183752,
+    "name": "User",
+    "email": "myUser@outloook.com",
+    "password": "$2b$10$lqgZtjv9kJBthYu8lw6fD.BsWdiZECBU/dZDuojZfZFL1hjFL44/q",
+    "role": "user"
+  }
+]
