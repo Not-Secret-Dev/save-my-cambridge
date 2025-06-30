@@ -7,7 +7,7 @@
   "dev": "concurrently \"vite\" \"nodemon\"",
   "build": "vite build",
   "preview": "vite preview",
-  "start": "node backend/index.js"
+  "start": "node Backend/index.js"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^4.5.0",
